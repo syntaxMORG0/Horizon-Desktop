@@ -1,0 +1,1 @@
+# Makefile for the shell component of Horizon Desktop
